@@ -1,0 +1,9 @@
+{
+  "hud.exit": "Werkstatt verlassen",
+  "hud.gems": {
+    "other": "Kristalle"
+  },
+  "hud.greeting": "Willkommen, {player}.",
+  "hud.sync": "%2$s mit %1$s synchronisieren.",
+  "legacy.tip": "Alte Nachricht"
+}

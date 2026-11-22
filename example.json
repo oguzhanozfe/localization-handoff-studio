@@ -1,0 +1,38 @@
+{
+  "locale": "de-DE",
+  "required_plural_forms": [
+    "one",
+    "other"
+  ],
+  "source": {
+    "hud.greeting": "Welcome, {player}.",
+    "hud.gems": {
+      "one": "{count} crystal",
+      "other": "{count} crystals"
+    },
+    "hud.exit": "Leave the forge",
+    "hud.sync": "Sync %1$s to %2$s."
+  },
+  "target": {
+    "hud.greeting": "Willkommen.",
+    "hud.gems": {
+      "other": "Kristalle"
+    },
+    "hud.exit": "Werkstatt verlassen",
+    "hud.sync": "%2$s mit %1$s synchronisieren.",
+    "legacy.tip": "Alte Nachricht"
+  },
+  "repairs": {
+    "hud.greeting": "Willkommen, {player}.",
+    "hud.gems": {
+      "one": "{count} Kristall",
+      "other": "{count} Kristalle"
+    }
+  },
+  "glossary": [
+    {
+      "source": "forge",
+      "target": "Schmiede"
+    }
+  ]
+}

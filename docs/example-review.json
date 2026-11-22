@@ -1,0 +1,20 @@
+{
+  "action": "Apply supplied translation for hud.greeting",
+  "id": "review:hud.greeting",
+  "linked_source_records": [
+    "key:hud.greeting"
+  ],
+  "choices": {
+    "review:hud.greeting": ""
+  },
+  "artifacts": {
+    "de-DE.json": {
+      "sha256": "b7a24e8a381b4d05ee1969c3d18b7f05815964026d8e164cd1eef7f5b13b5dbd",
+      "changed_by_approval": true
+    },
+    "repair-queue.json": {
+      "sha256": "0d8cc4bc8abb6883b0ae58e50417b11dbd328ff18849ff2cf3e95e028dba1677",
+      "changed_by_approval": false
+    }
+  }
+}
