@@ -2,11 +2,13 @@
 
 Detect placeholder, plural and glossary drift, then export approved repairs or a translator queue.
 
-[![Verify](https://github.com/oguzhanozfe/localization-handoff-studio/actions/workflows/check.yml/badge.svg)](https://github.com/oguzhanozfe/localization-handoff-studio/actions/workflows/check.yml) · [Deploy to Render](https://render.com/deploy?repo=https://github.com/oguzhanozfe/localization-handoff-studio) · [Input guide](GUIDE.md)
+**[Open the live demo](https://oguzhanozfe.github.io/localization-handoff-studio/)** · [![Verify](https://github.com/oguzhanozfe/localization-handoff-studio/actions/workflows/check.yml/badge.svg)](https://github.com/oguzhanozfe/localization-handoff-studio/actions/workflows/check.yml) · [Deploy to Render](https://render.com/deploy?repo=https://github.com/oguzhanozfe/localization-handoff-studio) · [Input guide](GUIDE.md)
 
 A translated line can read well while dropping a player name or a plural form. Locate the exact key, inspect the mismatch and hand the translator a focused queue.
 
 ![Example result for Localization Handoff Studio](docs/result.png)
+
+The live demo lets you edit the input, search proposed changes with an on-device model and download the result. [Browser demo details](demo/DEMO.md)
 
 ## Try it
 

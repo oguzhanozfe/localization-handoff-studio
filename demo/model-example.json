@@ -1,0 +1,24 @@
+{
+  "model": "gemma-4-e4b-it",
+  "provider": "local",
+  "source_sha256": "96da0ad5620f6fadad35b555dc0e954221521e9b16e08eec456d39cff504a22c",
+  "considered": 3,
+  "total": 3,
+  "recommendations": [
+    {
+      "id": "review:hud.greeting",
+      "evidence_id": "key:hud.greeting",
+      "why": "The source text clearly includes the placeholder {player}, which is absent in the current translation, necessitating this specific replacement."
+    },
+    {
+      "id": "review:hud.gems",
+      "evidence_id": "key:hud.gems",
+      "why": "The source provides both singular ('one') and plural ('other') forms, directly addressing the issue of missing pluralization in the current translation."
+    },
+    {
+      "id": "review:hud.exit",
+      "evidence_id": "key:hud.exit",
+      "why": "The source requires specific terminology ('forge'), and an existing glossary rule dictates that 'Schmiede' must be used instead of the current translation."
+    }
+  ]
+}
